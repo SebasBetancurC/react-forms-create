@@ -1,0 +1,18 @@
+.contenedor-barra-de-busqueda{
+    width: 50%;
+    min-height: 25px;
+    border: 2px solid rgba(69, 82, 73, 0.76);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+    position:relative;
+    left: -21px;
+    top: 30px;
+}
+
+.contenedor-barra-de-busqueda input{
+    color: red;
+    font-weight: bold;
+    background: grey;
+    place-content: red;
+}

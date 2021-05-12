@@ -1,0 +1,52 @@
+
+
+.contenedor-formulario-info-asociados{
+    width: 25%;
+    min-height: 365px;
+    border: 2px solid rgb(82, 89, 104);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+    position:absolute;
+    top:  158px;
+    left: 170px;
+
+}
+
+.titulo-registro{
+    color: rgb(250, 3, 3);
+    font-weight:900;
+    font-size: 150%;    text-align: center;
+}
+
+.informacion-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.informacion-form td{
+    color: grey;
+    font-weight: bold;
+
+
+    
+}
+
+.informacion-form input{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    background: grey;
+    
+    
+}
+
+button{
+    margin-bottom: 0;
+    background: red;
+    color: grey;
+    font-weight: bold;
+    
+    
+}

@@ -1,0 +1,26 @@
+.info-vehiculo-contenedor{
+    border: 2px solid rgb(72, 72, 85);
+    text-align: left;
+    color: grey;
+    font-weight: bold;
+    margin-bottom: 2px;   
+}
+
+.placa{
+    margin-left: 10px;
+}
+
+.marca{
+    position: absolute;
+    left: 130px;
+}
+
+.modelo{
+    position: absolute;
+    left: 270px;
+}
+
+.color{
+    position: absolute;
+    left: 410px;
+}
